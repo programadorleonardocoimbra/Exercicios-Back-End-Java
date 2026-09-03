@@ -9,7 +9,7 @@ public class Main {
         // Entrada de Dados a partir do Console
         Scanner scanner = new Scanner(System.in);
 
-        // Cabeçalho
+
         System.out.println("=============================");
         System.out.println("    CADASTRO DE PRODUTOS");
         System.out.println("=============================");
