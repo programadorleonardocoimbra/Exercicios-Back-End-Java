@@ -20,8 +20,7 @@ public class Main {
         String nomeCliente = scanner.nextLine();
 
         System.out.print("Digite seu CPF: ");
-        long cpfCliente = scanner.nextLong();
-        scanner.nextLine(); // CORREÇÃO: Limpa a quebra de linha pendente no buffer
+        String cpfCliente = scanner.nextLine();
         System.out.println(" ");
 
         System.out.print("Digite o nome do Produto: ");
