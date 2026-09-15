@@ -1,4 +1,4 @@
-package PooClassesUm;
+package Poo.PooClasses;
 
 public class Person {
 

@@ -1,6 +1,4 @@
-package PooClassesUm;
-
-import java.util.Scanner;
+package Poo.PooClasses;
 
 public class Main {
 
